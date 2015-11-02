@@ -3,8 +3,6 @@ package qin
 import (
 	"fmt"
 	"testing"
-
-	//. "github.com/smartystreets/goconvey/convey"
 )
 
 type tc struct {
